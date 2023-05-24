@@ -32,7 +32,7 @@ const post = {
       title: 'Main image',
       type: 'image',
       options: {
-        hotspot: true,
+        hotspot: false,
       },
       fields: [
         {
